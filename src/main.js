@@ -1,8 +1,8 @@
 const b = 2;
 const c = 2;
-const d = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa';
+const d = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 
 function sum() {
-    return b + c + d;
+  return b + c + d;
 }
 sum();
