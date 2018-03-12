@@ -3,7 +3,7 @@
 One Paragraph of project description goes here
 
 
-[![CircleCI](https://circleci.com/gh/renatoassis/js-tdd-curso.svg?style=svg)](https://circleci.com/gh/renatoassis/js-tdd-curso) [![Build Status](https://travis-ci.org/renatoassis/js-tdd-curso.svg?branch=master)](https://travis-ci.org/renatoassis/js-tdd-curso)[![Maintainability](https://api.codeclimate.com/v1/badges/d0283a904665b1ec1186/maintainability)](https://codeclimate.com/github/renatoassis/js-tdd-curso/maintainability)
+[![CircleCI](https://circleci.com/gh/renatoassis/js-tdd-curso.svg?style=svg)](https://circleci.com/gh/renatoassis/js-tdd-curso) [![Build Status](https://travis-ci.org/renatoassis/js-tdd-curso.svg?branch=master)](https://travis-ci.org/renatoassis/js-tdd-curso) [![Maintainability](https://api.codeclimate.com/v1/badges/d0283a904665b1ec1186/maintainability)](https://codeclimate.com/github/renatoassis/js-tdd-curso/maintainability) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/63c8d7d97f064e449fafdae60185445e)](https://www.codacy.com/app/renatoassis/js-tdd-curso?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=renatoassis/js-tdd-curso&amp;utm_campaign=Badge_Grade)
 
 ## Getting Started
 
