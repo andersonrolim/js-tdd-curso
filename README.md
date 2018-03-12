@@ -3,7 +3,7 @@
 One Paragraph of project description goes here
 
 
-[![CircleCI](https://circleci.com/gh/renatoassis/js-tdd-curso.svg?style=svg)](https://circleci.com/gh/renatoassis/js-tdd-curso) [![Build Status](https://travis-ci.org/renatoassis/js-tdd-curso.svg?branch=master)](https://travis-ci.org/renatoassis/js-tdd-curso)
+[![CircleCI](https://circleci.com/gh/renatoassis/js-tdd-curso.svg?style=svg)](https://circleci.com/gh/renatoassis/js-tdd-curso) [![Build Status](https://travis-ci.org/renatoassis/js-tdd-curso.svg?branch=master)](https://travis-ci.org/renatoassis/js-tdd-curso)[![Maintainability](https://api.codeclimate.com/v1/badges/d0283a904665b1ec1186/maintainability)](https://codeclimate.com/github/renatoassis/js-tdd-curso/maintainability)
 
 ## Getting Started
 
