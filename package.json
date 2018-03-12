@@ -4,8 +4,8 @@
   "description": "One Paragraph of project description goes here",
   "main": "index.js",
   "scripts": {
-    "lint" : "npx eslint src/*.js",
-    "prepush" : "npm run lint",
+    "lint": "npx eslint src/*.js",
+    "prepush": "npm run lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,9 +24,10 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
+    "husky": "^0.14.3",
     "prettier": "^1.11.1"
   },
   "dependencies": {
-    "husky": "^0.15.0-rc.8"
+    "run-node": "^0.2.0"
   }
 }
