@@ -6,3 +6,6 @@ before_script:
   - npm install
 script:
   - npm run lint
+
+notifications:
+   slack: prodaplabs:4vk05bgMz2Kx9Hr7ZiOS4o4V
