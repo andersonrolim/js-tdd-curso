@@ -2,6 +2,9 @@
 
 One Paragraph of project description goes here
 
+
+[![CircleCI](https://circleci.com/gh/renatoassis/js-tdd-curso.svg?style=svg)](https://circleci.com/gh/renatoassis/js-tdd-curso) [![Build Status](https://travis-ci.org/renatoassis/js-tdd-curso.svg?branch=master)](https://travis-ci.org/renatoassis/js-tdd-curso)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -68,7 +71,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
